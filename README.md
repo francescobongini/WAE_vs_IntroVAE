@@ -1,2 +1,2 @@
 # WAE_vs_IntroVAE
-[![Video detection](screenshot/test.gif)]
+[![Latent manifold](latent_manifold.gif)]
