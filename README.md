@@ -1,2 +1,2 @@
 # WAE_vs_IntroVAE
-[![Latent manifold](latent_manifold.gif)]
+![Latent manifold](latent_manifold.gif)
