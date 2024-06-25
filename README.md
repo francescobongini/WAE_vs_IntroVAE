@@ -1,7 +1,8 @@
 # WAE vs IntroVAE
-![Latent manifold](latent_manifold.gif)
 
 WAE (Wasserstein Auto-Encoder) and IntroVAE (Information-theoretic Variational Autoencoder) are both generative models that use Variational Autoencoders (VAEs) as their foundation. The main difference lies in the objective function they use to optimize the learning process.
+
+![Latent manifold](latent_manifold.gif)
 
 WAE (Wasserstein Auto-Encoder)
 
